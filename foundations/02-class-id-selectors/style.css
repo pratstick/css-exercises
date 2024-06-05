@@ -1,0 +1,22 @@
+/*styles.css*/
+
+.first{
+    background-color: rgb(219, 16, 118);
+    font-family: 'DejaVu Sans', sans-serif;
+}
+
+.first.second{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#one{
+    color: blue;
+    font-size: 36px;
+}
+
+#two{
+    background-color: rgb(109, 236, 109);
+    font-size: 24px;
+    font-weight: bold;
+}
